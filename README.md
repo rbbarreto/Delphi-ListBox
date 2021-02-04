@@ -1,2 +1,16 @@
-# Delphi---ListBox
-&lt;h4>2 : IndexItems&lt;/h4>  &lt;h4>3 : count &lt;/h4>  &lt;h4>4 : String &lt;/h4>  &lt;h4>5 : Length &lt;/h4>  &lt;h4>6 : delete select item  &lt;/h4> &lt;h4>7 : copy &amp;amp; move &amp;amp; MultiSelect items &lt;/h4> &lt;h4>8 : Modify Items &lt;/h4> &lt;h4>9 : icon in items &lt;/h4> &lt;h4>10 : brush color items &lt;/h4>
+# Delphi-ListBox
+- Nesta série de aulas, estou trazendo os exemplos que estou usando no Delphi passa a passo ListBox.  
+
+
+<h3 align="left">Lista abaixo</h3>
+
+## <h4> 1 : Add</li></h4> 
+<h4>2 : IndexItems</h4> 
+<h4>3 : count </h4> 
+<h4>4 : String </h4> 
+<h4>5 : Length </h4> 
+<h4>6 : delete select item  </h4>
+<h4>7 : copy &amp; move &amp; MultiSelect items </h4>
+<h4>8 : Modify Items </h4>
+<h4>9 : icon in items </h4>
+<h4>10 : brush color items </h4>
